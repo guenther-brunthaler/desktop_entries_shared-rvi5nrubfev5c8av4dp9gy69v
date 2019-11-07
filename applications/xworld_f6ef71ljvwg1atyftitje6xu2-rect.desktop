@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Rectangles (Customized)
+Type=Application
+Comment=Simon Tatham's Portable Puzzle Collection
+Exec=rect 130x68a
+TryExec=rect
+Icon=sgt-puzzles-rect
+Categories=Game;LogicGame;
+Path=
+Terminal=false
+StartupNotify=false

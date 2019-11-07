@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Mit asciidoc nach html konvertieren
+TryExec=asciidoc
+Exec=asciidoc %f
+Categories=Other;
+NoDisplay=true
+MimeType=text/plain
+Terminal=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Version history (RCS)
+TryExec=rlog
+Exec=rlog %f
+Categories=Other;
+NoDisplay=true
+MimeType=text/plain
+Terminal=true
+X-KeepTerminal=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=POSIX Shell (Datei als Script ausführen)
+TryExec=xterm
+Exec=xterm -e sh %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/x-shellscript
+Terminal=false

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Filesystem;
+Comment[de]=Wird nicht funktionieren, wenn es keinen zugehörigen Eintrag in /etc/fstab gibt!
+Comment=Wird nicht funktionieren, wenn es keinen zugehörigen Eintrag in /etc/fstab gibt!
+#Exec="m=%f && mount -- \"\$m\" && xmessage -timeout 1 \"Mounted OK!\" || xmessage \"Could not mount \\\"\$m\\\"! (Maybe not defined in /etc/fstab?)\""
+Exec=mount %f
+GenericName[de]=Dateisystem aus /etc/fstab einhängen
+GenericName=Dateisystem aus /etc/fstab einhängen
+Icon=svn-update
+#MimeType=inode/mount-point;
+MimeType=inode/directory;
+Name[de]=Mount
+Name=Mount
+NoDisplay=true
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application

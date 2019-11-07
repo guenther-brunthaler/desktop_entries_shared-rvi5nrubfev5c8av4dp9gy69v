@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Large File Hex Editor
+TryExec=lfhex
+Exec=lfhex %f
+Categories=Other;
+NoDisplay=true
+MimeType=image/jpeg
+Terminal=false

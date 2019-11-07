@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Net (Customized)
+Type=Application
+Comment=Simon Tatham's Portable Puzzle Collection
+Exec=net 25x18
+TryExec=net
+Icon=sgt-puzzles-net
+Categories=Game;LogicGame;
+Path=
+Terminal=false
+StartupNotify=false

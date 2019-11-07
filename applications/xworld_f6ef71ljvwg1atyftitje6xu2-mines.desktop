@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Mines (Customized)
+Type=Application
+Comment=Simon Tatham's Portable Puzzle Collection
+Exec=mines 34x26n99
+TryExec=mines
+Icon=sgt-puzzles-mines
+Categories=Game;LogicGame;
+Path=
+Terminal=false
+StartupNotify=false

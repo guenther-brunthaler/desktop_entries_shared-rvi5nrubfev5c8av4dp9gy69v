@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Auf aktuelles Datum setzen
+Exec=touch -- %F
+Categories=Other;
+NoDisplay=true
+MimeType=application/x-shellscript
+Terminal=false

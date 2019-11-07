@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Check-out (RCS)
+TryExec=co
+Exec=co -l %f
+Categories=Other;
+NoDisplay=true
+MimeType=text/plain
+Terminal=false

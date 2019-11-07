@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Mines (Customized)
+Type=Application
+Comment=Simon Tatham's Portable Puzzle Collection
+Exec=/usr/games/mog
+TryExec=/usr/games/mog
+Icon=xworld_f6ef71ljvwg1atyftitje6xu2-mazeofgalious
+Categories=Game;AdventureGame;ArcadeGame;
+Path=
+Terminal=false
+StartupNotify=false

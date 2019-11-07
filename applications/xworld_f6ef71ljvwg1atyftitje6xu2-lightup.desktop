@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Light Up (Customized)
+Type=Application
+Comment=Simon Tatham's Portable Puzzle Collection
+Exec=lightup 74x38b40s0d0
+TryExec=lightup
+Icon=sgt-puzzles-lightup
+Categories=Game;LogicGame;
+Path=
+Terminal=false
+StartupNotify=false

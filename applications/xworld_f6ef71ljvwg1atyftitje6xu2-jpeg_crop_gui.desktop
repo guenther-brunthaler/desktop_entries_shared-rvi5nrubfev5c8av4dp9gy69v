@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lossless JPEG-Crop GUI
+TryExec=jpeg_crop_gui
+Exec=jpeg_crop_gui
+MimeType=image/png
+Icon=exec
+NoDisplay=true
