@@ -1,0 +1,10 @@
+Version 2019.311
+
+The contents of the "applications" and "icons" subdirectories (or
+a selected subset of those contents) must be synchronized with
+subdirectories of the same name below $XDG_DATA_HOME (which
+defaults to "$HOME/.local/share").
+
+After synchronizing the files, run the helper script
+./scripts/update_menus.sh in order to try to update the diverse
+caches used by the desktop environments.
