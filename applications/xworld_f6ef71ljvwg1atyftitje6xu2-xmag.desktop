@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=xmag
+Name=Xmag
 Type=Application
 Comment=Magnifies part of the desktop in a static window (needs manual refreshing)
 Exec=xmag
