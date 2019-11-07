@@ -2,7 +2,7 @@
 Name=XSoldier
 Type=Application
 Comment=A 2D space shoot 'em up with powerful weapons, but w/o sound
-Exec=LIBEXEC/run-with-altered-screen-resolution -r 1024x768 xsoldier
+Exec=run-with-altered-screen-resolution -r 1024x768 xsoldier
 TryExec=xsoldier
 Icon=xworld_f6ef71ljvwg1atyftitje6xu2-xsoldier
 Categories=Game;ActionGame;ArcadeGame;

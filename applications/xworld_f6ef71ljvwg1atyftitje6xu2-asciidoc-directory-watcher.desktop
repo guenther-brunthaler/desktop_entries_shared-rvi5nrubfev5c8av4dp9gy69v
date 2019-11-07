@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Directory überwachen und HTML-Dateien mit asciidoc updaten
+Exec=sh -c "cd -- \\"\\$(dirname -- \\"\\$1\\")\\" && asciidoc-directory-watcher" -- %f
+Categories=Other;
+NoDisplay=true
+MimeType=text/html;
+Terminal=true

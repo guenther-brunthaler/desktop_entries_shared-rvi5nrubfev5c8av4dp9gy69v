@@ -1,4 +1,0 @@
-The value for the 'Exec' key in desktop entries may start with
-"LIBEXEC/". In this case this prefix will be replaced by the
-absolute path of the "libexec"-subdirectory of the directory
-containing THIS file you are currently reading.
