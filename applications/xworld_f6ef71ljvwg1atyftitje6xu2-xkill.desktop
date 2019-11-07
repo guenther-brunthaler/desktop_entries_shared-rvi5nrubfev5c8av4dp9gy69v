@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=xkill
+Type=Application
+Comment=Shows a cursor for clicking on a window and killing its application
+Exec=xkill
+TryExec=xkill
+Icon=xworld_f6ef71ljvwg1atyftitje6xu2-xkill
+Categories=Utility;
+Path=
+Terminal=false
+StartupNotify=false

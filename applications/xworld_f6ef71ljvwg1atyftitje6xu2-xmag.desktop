@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=xmag
+Type=Application
+Comment=Magnifies part of the desktop in a static window (needs manual refreshing)
+Exec=xmag
+TryExec=xmag
+Icon=xworld_f6ef71ljvwg1atyftitje6xu2-xmag
+Categories=Utility;
+Path=
+Terminal=false
+StartupNotify=false
